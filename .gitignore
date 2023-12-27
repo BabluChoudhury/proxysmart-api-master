@@ -1,0 +1,7 @@
+node_modules
+dist
+py
+.env
+pnpm-lock.yaml
+proxysmart.db
+_proxysmart.db
